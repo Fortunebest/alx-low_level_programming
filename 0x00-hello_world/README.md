@@ -1,1 +1,1 @@
-My readme for Assembler
+My readme for executable name cisfun
