@@ -1,1 +1,1 @@
-My readme for with exactly grammar, but the out put is a piece of art
+My readme to print various type of computer
