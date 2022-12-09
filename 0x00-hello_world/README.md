@@ -1,1 +1,1 @@
-My readme to print various type of computer
+readme for 101-quote.c
