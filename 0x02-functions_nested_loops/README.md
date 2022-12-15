@@ -1,1 +1,1 @@
-readme for putchar
+My readme for printing alphabets in lowercase
