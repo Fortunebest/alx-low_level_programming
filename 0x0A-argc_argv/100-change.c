@@ -28,13 +28,13 @@ int main(int argc, char *argv[])
 	{
 		for (i = 0; i < 5; i++)
 		{
-																			t = a / c[i];
-																			a -= t * c[i];
-																			n += t;
-																			if (a == 0)
-																				break;
-																			}
+			t = a / c[i];
+			a -= t * c[i];
+			n += t;
+			if (a == 0)
+				break;
 		}
-		printf("%d\n", n);
-		return (0);
+	}
+	printf("%d\n", n);
+	return (0);
 }
