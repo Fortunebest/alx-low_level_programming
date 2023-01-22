@@ -1,4 +1,4 @@
-lude "function_pointers.h"
+#include "function_pointers.h"
 
 /**
  * array_iterator - executes a function given as
@@ -8,7 +8,7 @@ lude "function_pointers.h"
  * @action: pointer to the function to use
  *
  * Return: void
- */
+*/
 
 void array_iterator(int *array, size_t size, void (*action)(int))
 {
